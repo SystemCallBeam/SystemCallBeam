@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SystemCallBeam
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning c++, java, c#(unity)
-- 💞️ I’m looking to collaborate on data science
+- 👀 I’m interested in computer science, software engineer
+- 🌱 I’m currently learning c++, java, c#(unity), python
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
